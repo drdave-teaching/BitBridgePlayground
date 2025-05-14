@@ -7,7 +7,7 @@ We’re using this as part of our warm-up before working on the subnet.
 
 ---
 
-## 👤 Task 1: Introductions
+## 👤 Task 1: Introduction
 Start by adding your name and a comment below.
 
 #### Example:
