@@ -14,7 +14,7 @@ Start by adding your name and a comment below.
 - **Faeze**: _Excited to build some cool stuff with you all!_
 
 ### Now you try:
-- Add your name and a comment below.
+- **Sandeep**: Looking forward to collaborate with cool people.
 
 ---
 
@@ -26,7 +26,7 @@ Start by adding your name and a comment below.
 3. Teleportation
 4. Dogs
 5. Internet
-6. Glass
+6. Tao Coins
 
 ### Now you try:
 - Remove one thing from the list above . 
