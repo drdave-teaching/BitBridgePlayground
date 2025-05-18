@@ -59,6 +59,7 @@ def team_function():
     print("BitBridge Team Members:")
     # Add your line below
     print(" - Faeze Safari")
+    print(" - Faeze Safari: 2nd time for practice")
 
 # Run the team function
 team_function()
@@ -70,4 +71,9 @@ team_function()
 # Example:
 sns.histplot(data['stock_price'], kde=True)
 plt.title("Distribution of Stock Prices")
+plt.show()
+
+# Faeze added the histogram of revenue
+sns.histplot(data['revenue'], kde=True)
+plt.title("Distribution of Revenues")
 plt.show()
