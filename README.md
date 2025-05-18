@@ -15,6 +15,7 @@ Start by adding your name and a comment below.
 
 ### Now you try:
 - **Sandeep**: Looking forward to collaborate with cool people.
+- **Faeze**: _Excited to build some cool stuff with you all!_
 
 ---
 
@@ -24,7 +25,7 @@ Start by adding your name and a comment below.
 1. Pineapples
 2. Spaceships
 3. Teleportation
-4. Dogs
+4. June
 5. Internet
 6. Tao Coins
 
