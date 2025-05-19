@@ -22,12 +22,12 @@ Start by adding your name and a comment below.
 
 ### 👾 List of Random Things
 1. Pineapples
-2. Spaceships
-3. Teleportation
-4. June
-5. Internet
-6. Tao Coins
-
+2. Teleportation
+3. June
+4. Internet
+5. Tao Coins
+6. French Bulldogs
+   
 ### Now you try:
 - Remove one thing from the list above . 
 - Add one new thing to the list above.
