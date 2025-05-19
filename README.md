@@ -14,8 +14,7 @@ Start by adding your name and a comment below.
 - **Faeze**: _Excited to build some cool stuff with you all!_
 
 ### Now you try:
-- **Sandeep**: Looking forward to collaborate with cool people.
-- **Faeze**: _Excited to build some cool stuff with you all!_
+- **Dmitrii**: Genuinely excited to build a big project!
 
 ---
 
