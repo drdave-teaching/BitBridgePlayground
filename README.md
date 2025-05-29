@@ -15,7 +15,7 @@ Start by adding your name and a comment below.
 
 ### Now you try:
 - **Dmitrii**: Genuinely excited to build a big project!
-- **Dr. Dave:** Hello World! 🎸
+- **Dr. Dave:** Hello World! 🎸 let's rock!
 
 ---
 
