@@ -61,7 +61,7 @@ def team_function():
     print(" - Faeze Safari")
     print(" - Faeze Safari: 2nd time for practice")
     print(" - Dmitrii Practicing this github task, Faeze thank you for your work!!!") # Dmitrii's comment
-
+    print(" - Dr. Dave: On the trail, Everest wont fail!")
 # Run the team function
 team_function()
 
@@ -82,5 +82,10 @@ plt.show()
 # Dmitrii added the histogram of stock gross margin
 sns.histplot(data['gross_margin'], kde=True)
 plt.title("Distribution of Gross Margins")
+plt.show()
+
+# Dr. Dave adds histogram too, copying what Dmitrii did...
+sns.histplot(data['gross_margin'], kde=True)
+plt.title("Distribution of Gross Margins/Copy Cat")
 plt.show()
 # -----------------------------
