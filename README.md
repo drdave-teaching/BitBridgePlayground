@@ -18,6 +18,8 @@ Start by adding your name and a comment below.
 
 ---
 
+**Jon**: Edit with Faeze to make sure it works!
+
 ## 📝 Task 2: List of Random Things
 
 ### 👾 List of Random Things
