@@ -23,7 +23,7 @@ Start by adding your name and a comment below.
 ## 📝 Task 2: List of Random Things
 
 ### 👾 List of Random Things
-1. Pineapples
+1. Popsicles
 2. Teleportation
 3. June
 4. Internet
