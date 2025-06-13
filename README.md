@@ -15,6 +15,7 @@ Start by adding your name and a comment below.
 
 ### Now you try:
 - **Dmitrii**: Genuinely excited to build a big project!
+- **Jon**: Attempt 4.
 
 ---
 
@@ -26,7 +27,7 @@ Start by adding your name and a comment below.
 3. June
 4. Internet
 5. Tao Coins
-6. French Bulldogs
+6. Cups
    
 ### Now you try:
 - Remove one thing from the list above . 
