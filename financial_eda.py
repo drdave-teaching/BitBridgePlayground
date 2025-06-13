@@ -84,3 +84,13 @@ sns.histplot(data['gross_margin'], kde=True)
 plt.title("Distribution of Gross Margins")
 plt.show()
 # -----------------------------
+
+# Jon Plot
+
+sns.scatterplot(x=data['pe_ratio'], y=data['stock_price'])
+plt.title('P/E Ratio vs. Stock Price', fontsize=16)
+plt.xlabel('P/E Ratio', fontsize=12)
+plt.ylabel('Stock Price', fontsize=12)
+plt.grid(True)
+plt.tight_layout()
+plt.show()
