@@ -1,6 +1,6 @@
 # 🚀 Welcome to the BittBridge GitHub Playground!
 
-Hey BitBridge team! 👋 
+Hey BittBridge team! 👋 
 
 This is a practice space for us to get familiar with GitHub basics — creating branches and forks, making pull requests, and collaborating on changes.  
 We’re using this as part of our warm-up before working on the subnet.
