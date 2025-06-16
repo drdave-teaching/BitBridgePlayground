@@ -16,6 +16,7 @@ Start by adding your name and a comment below.
 ### Now you try:
 - **Dmitrii**: Genuinely excited to build a big project!
 
+- **Hetarth**: Can't wait to get going !
 ---
 
 ## 📝 Task 2: List of Random Things
@@ -23,7 +24,7 @@ Start by adding your name and a comment below.
 ### 👾 List of Random Things
 1. Pineapples
 2. Teleportation
-3. June
+3. Artificial Intelligence
 4. Internet
 5. Tao Coins
 6. French Bulldogs
