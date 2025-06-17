@@ -22,7 +22,7 @@ print("Sum:", x + y)
 print("Product:", x * y)
 
 # 4. Print the difference between x and y
-# print("Difference:", )
+print("Difference:", )
 
 # 5. Print the result of x divided by y
 # print("Division:", )
