@@ -1,6 +1,6 @@
 # 🚀 Welcome to the BittBridge GitHub Playground!
 
-Hey BitBridge team! 👋 
+Hey BittBridge team! 👋 
 
 This is a practice space for us to get familiar with GitHub basics — creating branches and forks, making pull requests, and collaborating on changes.  
 We’re using this as part of our warm-up before working on the subnet.
@@ -15,7 +15,11 @@ Start by adding your name and a comment below.
 
 ### Now you try:
 - **Dmitrii**: Genuinely excited to build a big project!
+<<<<<<< main
 - **Jon**: Attempt 4.
+=======
+- **Dr. Dave:** Hello World! 🎸 let's rock!
+>>>>>>> main
 
 ---
 
@@ -24,7 +28,7 @@ Start by adding your name and a comment below.
 ### 👾 List of Random Things
 1. Pineapples
 2. Teleportation
-3. June
+3. 1983 Gibson Howard Roberts Fusion II Guitar
 4. Internet
 5. Tao Coins
 6. Cups
