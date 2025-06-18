@@ -28,7 +28,7 @@ print("Difference:", )
 numbers = [3, 6, 9, 12, 15, 18, 21]
 
 # 7. Print how many numbers are in the list
-print("There are", sum(numbers), "numbers in the list.")
+print("There are", len(numbers), "numbers in the list.")
 
 # 8. Print the first and last number
 print("First:", numbers[1])
