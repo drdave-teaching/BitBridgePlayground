@@ -1,7 +1,4 @@
 """
-GitHub Practice Script: Let's Play with Numbers!
-This script includes small mistakes and missing pieces for our team to fix collaboratively.
-
 BittBridge GitHub Practice Script: Let's Play with Numbers!
 
 This simple script is designed to help our team practice creating and resolving GitHub issues,
