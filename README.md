@@ -16,6 +16,11 @@ Start by adding your name and a comment below.
 ### Now you try:
 - **Dmitrii**: Genuinely excited to build a big project!
 
+- **Jon**: Attempt 4.
+
+- **Dr. Dave:** Hello World! 🎸 let's rock!
+
+
 - **Hetarth**: Can't wait to get going !
 ---
 
@@ -25,9 +30,10 @@ Start by adding your name and a comment below.
 1. Pineapples
 2. Teleportation
 3. Artificial Intelligence
+3. 1983 Gibson Howard Roberts Fusion II Guitar
 4. Internet
 5. Tao Coins
-6. French Bulldogs
+6. Cups
    
 ### Now you try:
 - Remove one thing from the list above . 
