@@ -35,7 +35,7 @@ print("First:", numbers[1])
 print("Last:", numbers[-1])
 
 # 9. Remove the number 12 from the list
-# numbers.remove()
+# numbers.remove(12)
 
 # 10. Add a new number (27) to the list
 # numbers.append()
