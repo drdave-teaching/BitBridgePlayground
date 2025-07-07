@@ -32,7 +32,7 @@ print("There are", len(numbers), "numbers in the list.")
 
 # 8. Print the first and last number
 print("First:", numbers[1])
-# print("Last:", )
+print("Last:", numbers[-1])
 
 # 9. Remove the number 12 from the list
 # numbers.remove()
