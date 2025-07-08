@@ -38,7 +38,7 @@ print("Last:", numbers[-1])
 # numbers.remove(12)
 
 # 10. Add a new number (27) to the list
-# numbers.append()
+numbers.append(27)
 
 # 11. Sort the list and print it
 # print("Sorted list:", )
