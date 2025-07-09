@@ -41,7 +41,8 @@ print("Last:", numbers[-1])
 numbers.append(27)
 
 # 11. Sort the list and print it
-# print("Sorted list:", )
+sorted_list = numbers.sort()
+print("Sorted list:", sorted_list)
 
 # 12. Print all numbers greater than 10
 print("Numbers greater than 10:")
